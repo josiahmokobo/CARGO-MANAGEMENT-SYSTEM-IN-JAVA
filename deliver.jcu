@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>deliver</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>deliver</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\cargos</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>CardLayouty.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\SplashScreen.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<breakpoints>
+		<breakpoint>
+			<path>recover.java</path>
+			<class>cargos</class>
+			<session/>
+			<line>62</line>
+			<enable>true</enable>
+		</breakpoint>
+	</breakpoints>
+</workspace_user>
